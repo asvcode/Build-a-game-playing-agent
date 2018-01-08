@@ -1,6 +1,6 @@
 # AIND---Build-a-game-playing-agent
 
-![Example game of isolation](viz.gif)
+![Example game of isolation](/images/viz.gif)
 
 ## Synopsis
 
